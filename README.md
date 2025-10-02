@@ -12,4 +12,6 @@ This is a minimal **end-to-end data science app template** you can use for any p
 ## Run Locally
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+python -m streamlit run app.py 
+
+
